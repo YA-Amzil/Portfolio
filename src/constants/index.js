@@ -7,6 +7,7 @@ import {
     csharp,
     java,
     python,
+    go,
 
     javascript,
     typescript,
@@ -83,6 +84,10 @@ const technologies = [
     {
         name: "Python",
         icon: python,
+    },
+    {
+        name: "Go",
+        icon: go,
     },
     // {
     //     name: "HTML 5",

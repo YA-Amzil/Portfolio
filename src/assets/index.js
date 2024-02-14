@@ -12,6 +12,7 @@ import close from "./close.svg";
 import csharp from "./tech/c-sharp.png";
 import java from "./tech/java.png";
 import python from "./tech/python.png";
+import go from "./tech/go.png";
 
 import html from "./tech/html.png";
 import css from "./tech/css.png";
@@ -52,6 +53,7 @@ export {
   csharp,
   java,
   python,
+  go,
   mssqlserver,
   oracle,
   html,
